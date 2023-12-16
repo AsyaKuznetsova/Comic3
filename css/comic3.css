@@ -25,7 +25,7 @@
 .comic__item5 .cloud1 {
     position: absolute;
     width: 50%;
-    top: -30px;
+    top: -10%;
     left: 0%;
 }
 
@@ -61,7 +61,7 @@
     position: absolute;
     width: 60%;
     right: 25%;
-    bottom: 10px;
+    bottom: -5%;
 
 }
 
@@ -83,7 +83,10 @@
     position: absolute;
     left: 35%;
     bottom: 40%;
-    font-size: 13px;
+
+    font-size: 90%;
+    text-align: center;
+
     
 
 }
